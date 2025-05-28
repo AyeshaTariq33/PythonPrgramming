@@ -1,2 +1,5 @@
 print("Ayesha")
 print(5)
+print("Mujtba")
+print("I like playing stumble guys")
+print("my birthday is on 23 june 2013")
